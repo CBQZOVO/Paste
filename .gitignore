@@ -1,0 +1,15 @@
+# SwiftPM
+.build/
+.swiftpm/
+dist/
+
+# Xcode / macOS
+xcuserdata/
+DerivedData/
+.DS_Store
+
+# Local data and logs
+*.db
+*.db-wal
+*.db-shm
+*.log
